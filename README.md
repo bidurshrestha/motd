@@ -1,4 +1,4 @@
-http://drbindash6.mylabserver.com:8080/buildStatus/icon?job=motd
+http://drbindash6.mylabserver.com:8080/buildStatus/icon?job=motd?style=plastic
 # motd
 
 #### Table of Contents
